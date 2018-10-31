@@ -1,0 +1,1 @@
+# I think so far I like the default ones provided by api.rubyonrails.org and ruby doc.org Though I have found ruby-lang.org to be a bit more easy for beginners. 
