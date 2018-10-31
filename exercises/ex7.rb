@@ -1,0 +1,1 @@
+# Any array is a list of objects, where a hash is a key, value pair list. Items in an array are retrieved by their index where a hash is item is retrieved with it's key. 
